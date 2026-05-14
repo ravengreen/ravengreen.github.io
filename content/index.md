@@ -5,6 +5,6 @@ Hi, I am Anna. I am a designer and social researcher currently studying Human-Co
 
 Working across a broad range of topics, I bring a design-driven, human-centered lens to technology development and digitalisation.
 
-I am interested in the perceptual, 
+I am interested in the perceptual.
 
 
