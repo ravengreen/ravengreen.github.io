@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// components for single content pages
+// components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -26,9 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.Explorer({ title: "Articles" }),
-  ],
-  right: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
@@ -36,20 +35,23 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
+    Component.Explorer(),
+  ],
+  right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
 
-// components for list pages (tags, folders)
+// components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.Explorer({ title: "Articles" }),
-  ],
-  right: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
@@ -59,5 +61,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.Explorer(),
   ],
+  right: [],
 }
