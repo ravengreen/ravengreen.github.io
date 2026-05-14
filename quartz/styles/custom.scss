@@ -1,3 +1,21 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Etwas größere Grundschrift */
+:root {
+  font-size: 18px;
+}
+
+/* Kleinere Schrift in Sidebar, Footer und Datumsangaben */
+.explorer {
+  font-size: 0.85em;
+}
+
+footer p {
+  font-size: 0.8em;
+}
+
+.content-meta {
+  font-size: 0.85em;
+}
