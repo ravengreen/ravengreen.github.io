@@ -2,18 +2,18 @@
 tags:
   - project
 ---
-# Context
+## Context
 - Initial Situation
 - Challenges
-# Objective
+## Objective
 - Role
 - Specific tasks and Responsibilities
-# Approach
+## Approach
 - Procedure
 - Methods
 - Tools, soft skills
-# Result
+## Result
 - Results, success, insights, impact of actions
 
-# Reflection
+## Reflection
 • Learnings, future work
