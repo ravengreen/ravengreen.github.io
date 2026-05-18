@@ -7,4 +7,4 @@ I am interested in digitalisation, technologies and design.
 ## Current Projects
 - [[Artistic Explorations of Machine Bias]]
 - [[Mediating Urban Social Encounters]]
-- [[Professional Relatedness at Workplaces]]
+- [[Professional Relatedness]]

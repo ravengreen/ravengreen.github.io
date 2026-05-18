@@ -6,7 +6,8 @@ tags:
 - Initial Situation
 - Challenges
 ## Objective
-- Role
+- Research questions
+- My Role
 - Specific tasks and Responsibilities
 ## Approach
 - Procedure
