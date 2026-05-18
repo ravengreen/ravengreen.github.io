@@ -3,7 +3,7 @@ tags:
   - project
 ---
 
-> [!tip] Summary
+> [!info] Summary
 > In this project, robotic street furniture was co-designed with 14 adolescents through theater-based methods to explore how robots could facilitate spontaneous social encounters in public space, resulting in 10 speculative concepts and 8 design suggestions that leverage robots' uniquely non-human qualities to support human-human connection.
 ## Context
 ### Initial Situation
