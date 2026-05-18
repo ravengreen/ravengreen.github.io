@@ -50,3 +50,6 @@ Research Questions
 
 ### Learnings
 Being part as a researcher in this project, I gained deep insights into participatory, qualitative research. I learned how to translate qualitative data into design material, from interview themes to prompts to enacted concepts, and how embodied methods like role-play can surface insights that discussion alone cannot. Furthermore, I got a hands-on sense of what ethical, participatory research with a vulnerable group looks like in practice. 
+
+## Links
+Read the full paper [here](https://dl.acm.org/doi/epdf/10.1145/3772318.3791189)
