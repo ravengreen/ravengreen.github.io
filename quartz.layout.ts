@@ -21,7 +21,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [
     Component.Explorer({ title: "Articles" }),
@@ -36,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.TagList(),
   ],
 }
 
