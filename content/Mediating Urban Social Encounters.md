@@ -30,13 +30,14 @@ Research Questions
 - Reflexive thematic analysis of focus group/interview transcripts, videos, and concepts
 ## Result
 
-### Insights
+### Outcome
+- 8 design suggestions derived across 4 categories: facilitate contact and encounter; navigate social tensions and frictions; enable reflection and perspective-taking; mediate communication and exchange
 - 10 speculative robot concepts co-created, including Roaming Benches, Talking Traffic Lights, Intervening Wall, and Complimenting Bollard
 - Seven categories of robotic social roles identified: playful, therapeutic, rebellious, creative, dependent, connecting, and functional
+### Insights
 - Key robotic strengths: persistence, shamelessness, emotional constancy, impartiality, non-judgment, 24/7 availability
 - Key robotic weaknesses: intrusiveness, tactlessness, naivety, potential for surveillance and discrimination
 - The same trait can be strength or weakness depending on context — neutrality, for instance, can feel liberating or cold
-- 8 design suggestions derived across 4 categories: facilitate contact and encounter; navigate social tensions and frictions; enable reflection and perspective-taking; mediate communication and exchange
 - Adolescents preferred concepts with subtle, practical social affordances (Playful Bin, Assistive Bike Stands) over explicitly social ones — revealing a desire for plausible deniability when seeking connection
 - Robots were most valued when they complemented human limitations rather than mimicking human behaviour
 
