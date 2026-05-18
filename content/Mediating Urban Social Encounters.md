@@ -13,7 +13,7 @@ Robots in public spaces are mostly functional (cleaning, delivery, surveillance)
 ## Objective
 As part of the research team at the University of Siegen with the Honda Research Institute EU I supported as a design researcher in facilitating a participatory, theater-based co-design process with adolescents. My role included the moderation of the focus group and parts of the co-design workshop, and three interviews.
 
-Research Questions
+**Research Questions**
 - Could robots, precisely because of their physical presence, agency, and unique social qualities, improve human-human social interaction in public spaces?
 - How might adolescents imagine robots that enable, disrupt, or reshape spontaneous encounters in public spaces?
 - What are the unique social qualities of robots relevant to adolescents, and how can designers make use of them?
