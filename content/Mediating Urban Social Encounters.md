@@ -2,6 +2,9 @@
 tags:
   - project
 ---
+
+> [!info] Summary
+> In this project, robotic street furniture was co-designed with 14 adolescents through theater-based methods to explore how robots could facilitate spontaneous social encounters in public space, resulting in 10 speculative concepts and 8 design suggestions that leverage robots' uniquely non-human qualities to support human-human connection.
 ## Context
 ### Initial Situation
 Adolescents rely on urban public spaces for peer bonding and social exploration, but are increasingly digitally isolated and often excluded or regulated in physical public spaces. Spontaneous, serendipitous encounters, which support social resilience, are becoming harder to come by. Existing HCI work on socially facilitative technology typically treats systems as passive, responsive infrastructure rather than as agents with social initiative.
