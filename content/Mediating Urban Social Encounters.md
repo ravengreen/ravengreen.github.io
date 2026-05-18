@@ -45,13 +45,6 @@ Research Questions
 - Robots were most valued when they complemented human limitations rather than mimicking human behaviour
 
 ## Reflection
-### Further Work
-- Longitudinal, in-situ deployments in real public spaces
-- Including adult participants for intergenerational comparison
-- Incorporating more critical, skeptical roles (e.g. Forum Theatre, design justice frameworks) to counter solutionist tendencies
-- Involving participants more directly in the analytic framing
-- Examining how robotic furniture might build on or deliberately subvert the existing social scripts of street objects
-
 ### Learnings
 Being part as a researcher in this project, I gained deep insights into participatory, qualitative research. I learned how to translate qualitative data into design material, from interview themes to prompts to enacted concepts, and how embodied methods like role-play can surface insights that discussion alone cannot. Furthermore, I got a hands-on sense of what ethical, participatory research with a vulnerable group looks like in practice. 
 
